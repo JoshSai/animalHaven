@@ -6,12 +6,6 @@ nav{
 	margin-left:10%;
 	margin-right:10%;
 }
-h1{
-	font-family: helvetica;
-	display:flex;
-	width:20%;
-	align-content: flex-end;
-}
 
 ul{
 	display: flex;
