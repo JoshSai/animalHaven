@@ -40,6 +40,9 @@ div > img{
     margin-left: auto;
     margin-right: auto;
 }
+p{
+	
+}
 
  .container {
     
@@ -51,6 +54,7 @@ div > img{
 .main{
 	padding:200px 0px;
 }
+
 #home{
 	width:6rem;
 }
